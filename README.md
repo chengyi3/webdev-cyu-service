@@ -1,2 +1,2 @@
 # webdev-cyu-service
-service for a shopping website
+service for a shopping website. Practice web dev technologies.
